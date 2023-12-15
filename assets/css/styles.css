@@ -1,0 +1,27 @@
+.container {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 60vh;
+    align-items: center;
+
+}
+.foto {
+    border-radius: 60px;
+    width: 60px;
+    height: 60px;
+}
+.perfil {
+    padding-top: 30px;
+    padding-bottom: 330px;
+   
+}
+h2 {
+    padding-top:5px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+}
